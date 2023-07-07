@@ -2,7 +2,7 @@
 - 👀 I’m interested in all Sports, coding, and baking
 - 🌱 I’m currently learning HTML, CSS, JavaScript, and Java but I also want to learn C#, Python, C, and C++
 - 💞️ I’m looking to collaborate on Game Development projects and Website projects
-- 📫 You can reach me at Aidencate27@gmail.com 
+- 📫 You can reach me at 63racer
 
 
 <!---
